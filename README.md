@@ -1,3 +1,5 @@
+# 修改部分源码：使用cancelToken取消请求时，控制台不停抛出promise reject错误，相关promise中加了catch语句防止控制台抛出异常
+
 # axios
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
